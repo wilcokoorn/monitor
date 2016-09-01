@@ -60,7 +60,7 @@ public class ServerMain extends AbstractHandler {
         sb.append("<meta http-equiv=\"refresh\" content=\"30\"/>\n");
         sb.append("</head>\n");
         sb.append("<body>\n");
-        sb.append("het werkt!");
+        sb.append("ja hoor! het werkt!");
         sb.append("</body>\n");
         sb.append("</html>\n");
         return sb.toString();
